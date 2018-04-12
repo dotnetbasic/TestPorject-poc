@@ -8,7 +8,7 @@ namespace TestPorject_poc
 {
     class Program
     {
-           static void Main(string[] args)
+        static void Main(string[] args)
         {
         }
     }
